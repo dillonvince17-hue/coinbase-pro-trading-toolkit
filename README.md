@@ -1,4 +1,4 @@
-# Coinbase Pro Trading toolkit
+dillonvince17@gmail.com Coinbase Pro Trading toolkit
 
 [![CircleCI](https://circleci.com/gh/coinbase/coinbase-pro-trading-toolkit.svg?style=svg)](https://circleci.com/gh/coinbase/coinbase-pro-trading-toolkit)
 <!-- ⛔️ AUTO-GENERATED-CONTENT:START (VERSIONBADGE) -->
